@@ -1,8 +1,9 @@
 # Fotor-website-USA
-I am a skilled Python developer with extensive experience in backend development and optimization, as well as frontend development. I have a strong background in creating efficient, scalable, and robust solutions for a variety of applications, ranging from web development to AI and machine learning projects.
+I am a skilled Python developer with extensive experience in backend development and optimization and frontend development. I have a strong background in creating efficient, scalable, and robust solutions for various applications, from web development to AI and machine learning projects.
 
 Backend Development and Optimization
-As a backend developer, I specialize in optimizing backend services to ensure high performance and scalability. My expertise includes:
+<br>
+As a backend developer, I optimize services to ensure high performance and scalability. My expertise includes:
 
 Python and Django/FastAPI: Proficient in developing RESTful APIs and web services using Django and FastAPI frameworks.
 Database Management: Experienced with PostgreSQL, NoSQL databases, and efficient data storage solutions.
