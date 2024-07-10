@@ -30,6 +30,8 @@ Design and Usability: Designing user-friendly interfaces with HTML, CSS, JavaScr
 Payment Gateway Integration: Connecting payment gateways and developing admin functionalities for seamless transactions.
 <br>
 Enhanced Security: Implementing advanced security measures, including CAPTCHA and token-based authentication.
-<br>
+<be>
+
+
 Project Experience
 Throughout my career, I have worked on various notable projects, and that is one of them. 
