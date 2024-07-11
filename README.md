@@ -5,6 +5,7 @@ Backend Development and Optimization
 <br>
 As a backend developer, I optimize services to ensure high performance and scalability. My expertise includes:
 <br>
+ssss
 
 Python and Django/FastAPI: Proficient in developing RESTful APIs and web services using Django and FastAPI frameworks.
 <br>
